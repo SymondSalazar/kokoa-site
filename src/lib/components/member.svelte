@@ -16,7 +16,7 @@
 
 <li class="text-center">
 	<img
-		class="mx-auto size-56 rounded-full"
+		class="mx-auto size-56 rounded-full object-cover"
 		src={member.photo}
 		width="224"
 		height="224"
