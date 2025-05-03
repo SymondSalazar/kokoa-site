@@ -15,13 +15,19 @@
 </script>
 
 <li class="text-center">
-	<img
-		class="mx-auto size-56 rounded-full object-cover"
-		src={member.photo}
-		width="224"
-		height="224"
-		alt={member.name}
-	/>
+	<div class="relative mx-auto size-56 group rounded-full overflow-hidden">
+		<img
+			class="size-56 object-cover group-hover:grayscale group-hover:brightness-50 transition duration-150"
+			src={member.photo}
+			width="224"
+			height="224"
+			alt={member.name}
+		/>
+		<a href="/members/{member.name.split(" ").join("_")}" 
+		class="absolute inset-0 flex items-center justify-center opacity-0 text-green-600 font-black group-hover:opacity-100 transition duration-150">
+		Conoce a {member.name.split(" ")[0]}
+		</a>
+	</div>
 	<h3 class="mt-6 text-base/7 font-semibold tracking-tight">{member.name}</h3>
 	<p class="text-sm/6 text-lime-400">{member.role}</p>
 	<ul role="list" class="mt-6 flex justify-center gap-x-6">

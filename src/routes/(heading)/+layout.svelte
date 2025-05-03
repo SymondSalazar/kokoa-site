@@ -5,9 +5,9 @@
 	let { children } = $props();
 </script>
 
-<div class="bg-linear-to-r/oklch from-lime-600 to-lime-400">
+<div class="bg-linear-to-r/oklch from-[#56AB2F] to-[#A8E063]">
 	<CenterContainer class="relative py-10 sm:py-12">
-		<h1 class="flex text-3xl font-bold text-gray-950 uppercase sm:px-10 sm:text-4xl">
+		<h1 class="flex text-3xl font-bold text-[#181617] uppercase sm:px-10 sm:text-4xl">
 			{page.data.title}
 			<span class="ml-auto w-24 sm:w-56"></span>
 		</h1>

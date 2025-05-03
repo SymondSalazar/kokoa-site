@@ -1,6 +1,6 @@
 [
   {
-    "name": "Alina  Carpio",
+    "name": "Alina Carpio",
     "role": "Presidente",
     "photo": "/members/Alina_Carpio.webp",
     "directiva": "si",
@@ -9,10 +9,11 @@
         "nombre": "github",
         "link": "https://github.com/alicarpio"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Melissa  Ayllon",
+    "name": "Melissa Ayllon",
     "role": "Vicepresidente",
     "photo": "/members/Melissa_Ayllon.webp",
     "directiva": "si",
@@ -21,10 +22,11 @@
         "nombre": "github",
         "link": "https://github.com/MelissaAyllon"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Michael  Estrada",
+    "name": "Michael Estrada",
     "role": "Secretario",
     "photo": "/members/Michael_Estrada.webp",
     "directiva": "si",
@@ -33,10 +35,11 @@
         "nombre": "github",
         "link": "https://github.com/BryanEstrada003"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Dayanara  Bone",
+    "name": "Dayanara Bone",
     "role": "Miembro",
     "photo": "/members/Dayanara_Bone.webp",
     "directiva": "no",
@@ -45,10 +48,11 @@
         "nombre": "github",
         "link": "https://github.com/DayanaraBV"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "John  Cañarte",
+    "name": "John Cañarte",
     "role": "Miembro",
     "photo": "/members/John_Cañarte.webp",
     "directiva": "no",
@@ -57,10 +61,11 @@
         "nombre": "github",
         "link": "https://github.com/Jecanart"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Robert  Cortez",
+    "name": "Robert Cortez",
     "role": "Miembro",
     "photo": "/members/Robert_Cortez.webp",
     "directiva": "no",
@@ -69,10 +74,11 @@
         "nombre": "github",
         "link": "https://github.com/DanRCM"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Isaac  Criollo",
+    "name": "Isaac Criollo",
     "role": "Miembro",
     "photo": "/members/Isaac_Criollo.webp",
     "directiva": "no",
@@ -81,10 +87,11 @@
         "nombre": "github",
         "link": "https://github.com/Izaako04"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Adrián  Delgado",
+    "name": "Adrián Delgado",
     "role": "Miembro",
     "photo": "/members/Adrián_Delgado.webp",
     "directiva": "no",
@@ -93,10 +100,11 @@
         "nombre": "github",
         "link": "https://github.com/adriandelgado"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Joel  Guamaní",
+    "name": "Joel Guamaní",
     "role": "Miembro",
     "photo": "/members/Joel_Guamaní.webp",
     "directiva": "no",
@@ -105,10 +113,11 @@
         "nombre": "github",
         "link": "https://github.com/isaiasgh"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Anthony  Herrera",
+    "name": "Anthony Herrera",
     "role": "Miembro",
     "photo": "/members/Anthony_Herrera.webp",
     "directiva": "no",
@@ -117,10 +126,11 @@
         "nombre": "github",
         "link": "https://github.com/AnthonyyHL"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Kevin  Maldonado",
+    "name": "Kevin Maldonado",
     "role": "Miembro",
     "photo": "/members/Kevin_Maldonado.webp",
     "directiva": "no",
@@ -129,10 +139,11 @@
         "nombre": "github",
         "link": "https://github.com/SirProg"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Alexa  Marin",
+    "name": "Alexa Marin",
     "role": "Miembro",
     "photo": "/members/Alexa_Marin.webp",
     "directiva": "no",
@@ -141,10 +152,11 @@
         "nombre": "github",
         "link": "https://github.com/aamarin05"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Daniel  Mateo",
+    "name": "Daniel Mateo",
     "role": "Miembro",
     "photo": "/members/Daniel_Mateo.webp",
     "directiva": "no",
@@ -153,10 +165,11 @@
         "nombre": "github",
         "link": "https://github.com/DanielMateoOrellana"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "María  Moyano",
+    "name": "María Moyano",
     "role": "Miembro",
     "photo": "/members/María_Moyano.webp",
     "directiva": "no",
@@ -165,10 +178,11 @@
         "nombre": "github",
         "link": "https://github.com/Majomoyano"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Noelia  Pasaca",
+    "name": "Noelia Pasaca",
     "role": "Miembro",
     "photo": "/members/Noelia_Pasaca.webp",
     "directiva": "no",
@@ -177,10 +191,11 @@
         "nombre": "github",
         "link": "https://github.com/noeliapasaca"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Juan  Plúas",
+    "name": "Juan Plúas",
     "role": "Miembro",
     "photo": "/members/Juan_Plúas.webp",
     "directiva": "no",
@@ -189,10 +204,11 @@
         "nombre": "github",
         "link": "https://github.com/jppluas"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Braulio  Rivas",
+    "name": "Braulio Rivas",
     "role": "Miembro",
     "photo": "/members/Braulio_Rivas.webp",
     "directiva": "no",
@@ -201,10 +217,11 @@
         "nombre": "github",
         "link": "https://github.com/brauliorivas"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Symond  Salazar",
+    "name": "Symond Salazar",
     "role": "Miembro",
     "photo": "/members/Symond_Salazar.webp",
     "directiva": "no",
@@ -213,10 +230,11 @@
         "nombre": "github",
         "link": "https://github.com/SymondSalazar"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Carlos  Tingo",
+    "name": "Carlos Tingo",
     "role": "Miembro",
     "photo": "/members/Carlos_Tingo.webp",
     "directiva": "no",
@@ -225,10 +243,11 @@
         "nombre": "github",
         "link": "https://github.com/TingoCarlos08"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Valeria  Troya",
+    "name": "Valeria Troya",
     "role": "Miembro",
     "photo": "/members/Valeria_Troya.webp",
     "directiva": "no",
@@ -237,10 +256,11 @@
         "nombre": "github",
         "link": "https://github.com/Mayliin"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Danny  Véliz",
+    "name": "Danny Véliz",
     "role": "Miembro",
     "photo": "/members/Danny_Véliz.webp",
     "directiva": "no",
@@ -249,10 +269,11 @@
         "nombre": "github",
         "link": "https://github.com/Danny-veliz"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   },
   {
-    "name": "Daniel  Zavala",
+    "name": "Daniel Zavala",
     "role": "Miembro",
     "photo": "/members/Daniel_Zavala.webp",
     "directiva": "no",
@@ -261,6 +282,7 @@
         "nombre": "github",
         "link": "https://github.com/fzavala2003"
       }
-    ]
+    ],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque, sapien eu porta ultrices, ex magna semper eros, nec rutrum ligula nulla in neque. Nullam luctus, quam sit amet imperdiet euismod, nibh odio finibus tortor, et pharetra sapien mauris ut ante. Phasellus eu ullamcorper mi. Maecenas eget facilisis tortor. Vestibulum vel eros turpis. Nam eleifend sagittis sapien, a laoreet ligula elementum tincidunt. Phasellus convallis massa enim, non tincidunt purus iaculis vel. "
   }
 ]
